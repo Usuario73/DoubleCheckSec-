@@ -1,12 +1,12 @@
-# Veri2Step - Sistema de Verificação em Duas Etapas com Python e PyOTP
+# DoubleCheckSec - Sistema de Verificação em Duas Etapas com Python e PyOTP
 
 ![Veri2Step](https://example.com/veri2step-logo.png)
 
 ## Visão Geral
 
-O Veri2Step é um sistema de verificação em duas etapas (2FA) desenvolvido em Python usando a biblioteca PyOTP. O objetivo deste projeto é aumentar a segurança das contas de usuário, adicionando uma camada extra de autenticação antes de conceder acesso aos recursos protegidos.
+O DoubleCheckSec é um sistema de verificação em duas etapas (2FA) desenvolvido em Python usando a biblioteca PyOTP. O objetivo deste projeto é aumentar a segurança das contas de usuário, adicionando uma camada extra de autenticação antes de conceder acesso aos recursos protegidos.
 
-A verificação em duas etapas é uma técnica de segurança amplamente adotada, na qual o usuário deve fornecer dois elementos de autenticação antes de ser autorizado a entrar em sua conta. No Veri2Step, combinamos a autenticação tradicional (por exemplo, senha) com a autenticação baseada em um token único de uso único gerado por um aplicativo de autenticação (como o Google Authenticator).
+A verificação em duas etapas é uma técnica de segurança amplamente adotada, na qual o usuário deve fornecer dois elementos de autenticação antes de ser autorizado a entrar em sua conta. No DoubleCheckSec, combinamos a autenticação tradicional (por exemplo, senha) com a autenticação baseada em um token único de uso único gerado por um aplicativo de autenticação (como o Google Authenticator).
 
 ## Recursos Principais
 
