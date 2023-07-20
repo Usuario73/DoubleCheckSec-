@@ -83,4 +83,4 @@ Para qualquer dúvida ou sugestão relacionada a este projeto, entre em contato 
 
 ---
 
-Agradecemos por utilizar o Veri2Step para aumentar a segurança em seus sistemas e contas de usuário. Esperamos que este projeto seja útil para suas necessidades de verificação em duas etapas!
+Agradecemos por utilizar o DoubleCheckSec para aumentar a segurança em seus sistemas e contas de usuário. Esperamos que este projeto seja útil para suas necessidades de verificação em duas etapas!
